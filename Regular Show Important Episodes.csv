@@ -1,0 +1,152 @@
+,Regular Show Important Episodes,,,
+,,,,
+Keys,Definition,,,
+C,Charater Intro,,,
+D,Charater Developmet <<Eps that contain some Plot but doest effect ovrall>>,,,
+P,Plot <<Eps that are directly refrenced later>>,,,
+S,Special <<Special Event Eps>>,,,
+GG,Good Filler <<Eps that are popular but not important>>,,,
+,,,,
+,Cut Episodes number: 123,,,
+,,,,
+Number,Season,Episode,Name,Reason
+1,0,0,"""ThePilot""","C -  Episode is reworked on ""First Day"""
+2,1,1,"""The Power""",C
+3,1,2," ""Just Set Up the Chairs""",C
+4,1,3," ""Caffeinated Concert Tickets""",C
+5,1,4,"""Death Punchies""",GG
+6,1,5," ""Free Cake""",C
+7,1,8," ""The Unicorns Have Got to Go""",C
+8,1,10," ""Don""",C
+9,2,1," ""Ello Gov'nor""",D
+10,2,2,"""It's Time""",D - can be filler but fleshes out how much Rigby and Modicai know each other
+11,2,4,"""Peeps""",D - fleshes out the relationship between Benson and the Slackers
+12,2,6,"""My Mom""",D - fleshes out the relation ship between the two duos
+13,2,7," ""High Score""",C D
+14,2,8,"""Party Pete""",C D
+15,2,13," ""This Is My Jam""",D
+16,2,14,"""Muscle Woman""",C D
+17,2,15," ""Temp Check""",D
+18,2,21,"""Over the Top""",C D
+19,2,23," ""A Bunch of Baby Ducks""",C D
+20,2,25," ""First Day""",C - Reworked Pilot Episod
+21,3,3,"""Skips Strikes""",D
+22,3,4 &  5,"""Terror Tales of the Park""",S
+23,3,6," ""Camping Can Be Cool""",D
+24,3,7,"""Slam Dunk""",GG
+25,3,9," ""House Rules""",D
+26,3,10," ""Rap It Up""",GG
+27,3,13," ""Weekend at Benson's""",D
+28,3,15," ""Think Positive""",D
+29,3,16," ""Skips vs. Technology""",D
+30,3,17," ""Butt Dial""",D
+31,3,18,"""Eggscellent""",D
+32,3,20,"""Video Game Wizards""",D
+33,3,23," ""Replaced""",D
+34,3,25," ""Fists of Justice""",D
+35,3,26,"""Yes Dude Yes""",P 
+36,3,28," ""Dead at Eight""",D - refrencing S3 E37
+37,3,29,"""Access Denied""",D
+38,3,30,"""Muscle Mentor""",D
+39,3,31,"""Trucker Hall of Fame""",D
+40,3,33,"""Fancy Restaurant""",D
+41,3,34,"""Diary""",D
+42,3,37,"""Death Bear""",D
+43,3,40,"""Bad Kiss""",P
+44,4,1 & 2,"""Exit 9B""",D
+45,4,3,"""Starter Pack""",D
+46,4,4 & 5,"""Terror Tales of the Park II""",S
+47,4,7,"""150 Piece Kit""",D
+48,4,9," ""Guy's Night""",D
+49,4,10,"""One Pull Up""",D
+50,4,11  & 12,"""The Christmas Special""",S
+51,4,13,"""T.G.I. Tuesday""",D
+52,4,15,"""The Longest Weekend""",D
+53,4,16," ""Sandwich of Death""",D
+54,4,18,"""Do or Diaper""",D
+55,4,19," ""Quips""",C
+56,4,25,"""Picking Up Margaret""",P
+57,4,26," ""K.I.L.I.T. Radio""",D
+58,4,28," ""Skips' Stress""",D
+59,4,31,"""Meteor Moves""",P
+60,4,32," ""Family BBQ""",P
+61,4,35,"""Blind Trust""",D
+62,4,37,"""Last Meal""",D -refrenced S3 E28
+63,4,39,"""Party Re-Pete""",D
+64,4,40,"""Steak Me Amadeus""",P
+65,5,1,"""Laundry Woes""",P
+66,5,6," ""A Skips in Time""",D
+67,5,8 & 9," ""Terror Tales of the Park III""",S
+68,5,11," ""Bank Shot""",GG - sequel of S3 E7
+69,5,13 & 14,"""The Thanksgiving Special""",S
+70,5,16,"""New Year's Kiss""",P
+71,5,17," ""Dodge This""",P
+72,5,18," ""Portable Toilet""",D
+73,5,19,"""The Postcard""",D
+74,5,20,"""Rigby in the Sky with Burrito""",D
+75,5,21,"""Journey to the Bottom of the Crash Pit""",D
+76,5,22,"""Saving Time""",GG
+77,5,24  & 25,"""Skips' Story""",D
+78,5,27,"""Bad Portrait""",D
+79,5,28," ""Video 101""",D
+80,5,29,"""I Like You Hi""",P
+81,5,30,"""Play Date""",P
+82,5,31,"""Expert or Liar""",D
+83,5,36,"""Skips in the Saddle""",D
+84,5,38,"""Bachelor Party! Zingo!!""",D
+85,5,39,"""Tent Trouble""",D
+86,5,40,"""Real Date""",P
+87,6,1,"""Maxin' and Relaxin'""",P
+88,6,2,"""New Bro on Campus""",D
+89,6,3," ""Daddy Issues""",D
+90,6,4 & 5,"""Terror Tales of the Park IV""",S
+91,6,6," ""The End of Muscle Man""",D
+92,6,8," ""Eileen Flat Screen""",D
+93,6,9 & 10," ""The Real Thomas""",P
+94,6,12," ""Merry Christmas Mordecai""",P
+95,6,13," ""Sad Sax""",P
+96,6,14,"""Married and Broke""",D
+97,6,18,"""Format Wars II""",GG
+98,6,19,"""Happy Birthday Song Contest""",GG
+99,6,20," ""Benson's Suit""",GG
+100,6,22,"""1000th Chopper Flight Party""",P
+101,6,24," ""Men in Uniform""",D
+102,6,26 & 27,"""Brilliant Century Duck Crisis Special""",S
+103,6,28,"""Not Great Double Date""",P
+104,6,29,"""Death Kwon Do-Livery""",D
+105,6,31,"""Dumped at the Altar""",P
+106,7,1,"""Dumptown U.S.A.""",P
+107,7,2,"""The Parkie Awards""",D
+108,7,4,"""Local News Legends""",D
+109,7,5 & 6,"""The Dome Experiment""",P
+110,7,9," ""Struck by Lightning""",D
+111,7,10 & 11,"""Terror Tales of the Park V""",S
+112,7,14," ""Just Friends""",P
+113,Movie,Movie,Regular Show: The Movie,S P D C GG
+114,7,16,"""The Eileen Plan""",P
+115,7,17," ""Hello China""",P
+116,7,18,"""Crazy Fake Plan""",P
+117,7,20,"""Snow Tubing""",D
+118,7,21,"""Chili Cook Off""",D
+119,7,23,"""Gymblonski""",P
+120,7,24," ""Guys Night 2""",D
+121,7,29,"""Rigby Goes to the Prom""",P
+122,7,34," ""Pam I Am""",P
+123,7,38 & 39,"""Rigby's Graduation Day Special""",P
+-,-,-,-,With season 8 I recommend watching it all for better ovall experience
+124,8,1,"""One Space Day at a Time""",P
+125,8,3,"""Welcome to Space""",P
+126,8,7,"""The Dream Warrior""",P
+127,8,9,"""Fries Night""",D
+128,8,15," ""Space Escape""",P
+129,8,16,"""New Beds""",P
+130,8,18," ""Alpha Dome""",D
+131,8,19 & 20,"""Terror Tales of the Park VI""",S
+132,8,21,"""The Ice Tape""",P
+133,8,22," ""The Key to the Universe""",P
+134,8,23,"""No Train No Gain""",P
+135,8,24 & 25,"""Christmas in Space""",P
+136,8,26,"""Kill 'Em with Kindness""",P
+137,8,27,"""Meet the Seer""",P
+138,8,28," ""Cheer Up Pops""",P
+139,8,"29 , 30 & 31","""A Regular Epic Final Battle""",P
